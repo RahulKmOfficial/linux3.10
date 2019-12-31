@@ -1,7 +1,7 @@
 #!/bin/bash
 # simple bash script for executing build
-
-# root directory of NetHunter Mipad1[mocha] git repo (default is this script's location)
+#@RahulKmOfficial
+# root directory of Linux4Tegra/NetHunter Mipad1[mocha] kernel git repo (default is this script's location)
 RDIR=$(pwd)
 
 [ "$VER" ] ||
